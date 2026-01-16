@@ -24,4 +24,4 @@ It is uniquely identified by a [hash](https://wikipedia.org/wiki/Hash_function) 
 - `git pull` -- synchronize changes[^changes] **from** the remote
 - `git restore` -- restore the work directory or staging area
 
-[^changes]: Change means a ["commit"](#Commits).
+[^changes]: Change means a ["commit"](#commits).
