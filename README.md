@@ -7,3 +7,4 @@ Git is important because
 1. it helps track changes
 2. it allows for collaboration
 
+More info in the [course diary](course-diary.md).
